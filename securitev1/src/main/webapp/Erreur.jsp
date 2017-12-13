@@ -12,6 +12,7 @@
         <title>Erreur</title>
     </head>
     <body>
+        <h1> OOPS Nous ne parvenons pas à vous identifier...
         <a href="index.jsp">Retour à l'accueil</a>
     </body>
 </html>
